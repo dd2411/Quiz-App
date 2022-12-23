@@ -1,0 +1,1 @@
+I have made an Quiz Application using Kotlin. In this application, we can enter our mobile number to get the result. Moreover, I fixed some answers so right answer show the green light on button and the wrong answer show the red light in button. 
